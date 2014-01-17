@@ -1,0 +1,18 @@
+/* Your Website Styles */
+
+h1{
+	font-family: 'Aclonica', sans-serif;
+}
+
+p{
+	font-family: 'Vidaloka', serif;
+}
+
+h3{
+	
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
